@@ -2,3 +2,7 @@
 -- (1
 
 select * from books;
+
+--(2
+
+select * from books where release_date = '2010' select * from and ;
